@@ -40,7 +40,7 @@ $ docker run --volumes-from mysql -v $(pwd):/backup ubuntu bash -c "tar xf /back
 $ docker start mysql
 ```
 
-<br /><br />
+<br />
 
 ## LICENSE
 
